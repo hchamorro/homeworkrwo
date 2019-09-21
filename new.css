@@ -1,0 +1,99 @@
+.ai-c {
+  align-items: center;
+}
+.bgc-ltorange-hv:hover {
+  background-color: rgb(255, 176, 86);
+}
+.bgc-orange {
+  background-color: rgb(255, 136, 0);
+}
+.bgc-pink {
+  background: #e87;
+}
+.bgc-turq {
+  background: #41b3a3;
+}
+.bd-n {
+  border: none;
+}
+.bdrs-50 {
+  border-radius: 50%;
+}
+.bdrs-5 {
+  border-radius: 5%;
+}
+.c-white {
+  color: #dfdce3;
+}
+.cur-p {
+  cursor: pointer;
+}
+
+.d-f {
+  display: flex;
+}
+.d-ib {
+  display: inline-block;
+}
+
+.ff-turrent {
+  font-family: "Turret Road", cursive;
+}
+
+.ff-nunito {
+  font-family: "Nunito", sans-serif;
+}
+.fld-c {
+  flex-direction: column;
+}
+.fl-start {
+  float: left;
+}
+.flgw-1 {
+  flex-grow: 1;
+}
+.fz-300 {
+  font-size: 300%;
+}
+.h-15 {
+  height: 15em;
+}
+.h-100vh {
+  height: 100vh;
+}
+.jc-c {
+  justify-content: center;
+}
+.jc-sa {
+  justify-content: space-around;
+}
+.m-a {
+  margin: auto;
+}
+.maw-maxc {
+  max-width: max-content;
+}
+.maw-80 {
+  max-width: 80%;
+}
+.m-1 {
+  margin: 1rem;
+}
+.m-10 {
+  margin: 10px;
+}
+.p-1 {
+  padding: 1rem;
+}
+.p-1x1 {
+  padding: 1rem 1.25rem;
+}
+.ta-c {
+  text-align: center;
+}
+.td-n {
+  text-decoration: none;
+}
+.w-50 {
+  width: 50%;
+}
